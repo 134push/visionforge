@@ -1,17 +1,17 @@
-# how to access the git 
 
-# remove old git 
-Remove-Item -Recurse -Force .git
+**README preview ma roughly aa rite dekhashe:**
 
-# initialize git
-git init
-git add .
-git commit -m "Initial commit"
+## 🔧 Git Setup
 
-# connect to remote git 
-git remote add origin https://github.com/134push/visionforge.git
+Clone the repository and connect it with GitHub.
 
-# branch main
-git branch -M main
+### Initialize Git
+`git init` → `git add .` → `git commit`
 
-git push -u origin main --force
+### Connect to GitHub
+`git remote add origin ...` → `git push`
+
+### Update Repository
+`git add .` → `git commit -m "Update"` → `git push`
+
+આ **simple + professional** છે અને README માં મુકવા યોગ્ય છે.
