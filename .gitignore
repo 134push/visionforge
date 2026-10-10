@@ -1,11 +1,13 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
 
-# Downloaded external repositories and models
+# Downloaded models and external repositories
+models/
 repositories/
 external_repos/
 Minimax-H3-fl2va-ref2va-hybrid-models/
-
-
 motion-graphics/
-repositories/
-external_repos/
-Minimax-H3-fl2va-ref2va-hybrid-models/
+
+# Keep application code and assets trackable
